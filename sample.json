@@ -1,1 +1,12 @@
-{}
+{
+  "id": "1001",
+  "name": "Jane Doe",
+  "age": 29,
+  "is_active": true,
+  "skills": ["JavaScript", "Python", "JSON"],
+  "address": {
+    "city": "Hyderabad",
+    "zipcode": "500090"
+  },
+  "phone_numbers": null
+}
