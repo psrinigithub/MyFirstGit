@@ -1,3 +1,4 @@
 Edited
 Hello
 added changes from new branch
+Hey, we fixed the bug.
