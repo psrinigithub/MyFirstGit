@@ -1,6 +1,6 @@
 {
   "id": "1001",
-  "name": "Jane Doe",
+  "name": "Jane Heller",
   "age": 29,
   "is_active": true,
   "skills": ["JavaScript", "Python", "JSON"],
