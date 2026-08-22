@@ -1,5 +1,10 @@
 {
   "id": "1001",
+  "name": "Jane Doe",
+  "features": {
+    "height": 5.6,
+    "weight": 130
+  },
   "name": "Jane Heller",
   "age": 29,
   "is_active": true,
