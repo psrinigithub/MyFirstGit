@@ -1,0 +1,5 @@
+When people talk about #MakingAIReal, it's easy to focus on the technology. But successful AI adoption often starts somewhere much simpler: helping people learn from each other.
+
+That is why visibility matters. When teams can easily see what others have tried, they can move faster, avoid starting from scratch and focus their energy on adapting ideas that already have momentum.
+
+That is the thinking behind the Americas AI Center of Excellence, a hub designed to help teams find practical AI resources, proven approaches and real examples they can adapt. From AI assets and case studies to demos and success stories, the focus is on scaling what works so colleagues can build faster on ideas that already exist across the business.
